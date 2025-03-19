@@ -1,1 +1,1 @@
-A small project/game from my high school, currently unfinished.
+A small project/game from high school, currently unfinished.
